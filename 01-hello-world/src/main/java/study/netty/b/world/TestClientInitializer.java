@@ -1,4 +1,4 @@
-package study.netty.world;
+package study.netty.b.world;
 
 import io.netty.channel.Channel;
 import io.netty.channel.ChannelInitializer;

@@ -1,4 +1,4 @@
-package study.netty.world;
+package study.netty.b.world;
 
 import io.netty.channel.ChannelHandlerContext;
 import io.netty.channel.SimpleChannelInboundHandler;

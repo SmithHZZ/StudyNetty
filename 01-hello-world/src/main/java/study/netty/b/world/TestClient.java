@@ -1,4 +1,4 @@
-package study.netty.world;
+package study.netty.b.world;
 
 import io.netty.bootstrap.Bootstrap;
 import io.netty.channel.ChannelFuture;

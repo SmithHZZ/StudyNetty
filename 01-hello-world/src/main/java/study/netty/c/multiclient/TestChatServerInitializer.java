@@ -1,4 +1,4 @@
-package study.netty.multiclient;
+package study.netty.c.multiclient;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

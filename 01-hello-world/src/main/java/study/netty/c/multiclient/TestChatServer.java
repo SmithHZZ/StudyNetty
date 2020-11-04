@@ -1,4 +1,4 @@
-package study.netty.multiclient;
+package study.netty.c.multiclient;
 
 import io.netty.bootstrap.ServerBootstrap;
 import io.netty.channel.ChannelFuture;
