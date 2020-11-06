@@ -7,9 +7,6 @@ import io.netty.channel.group.ChannelGroup;
 import io.netty.channel.group.DefaultChannelGroup;
 import io.netty.util.concurrent.GlobalEventExecutor;
 
-import java.util.List;
-import java.util.UUID;
-
 /**
  * Author：zhuangzhuang.hu
  * Date: 2020/11/3
