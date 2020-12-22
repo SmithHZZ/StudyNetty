@@ -11,6 +11,7 @@
     <modules>
         <module>01-hello-world</module>
         <module>02-grpc</module>
+        <module>03-thrift</module>
     </modules>
 
     <dependencies>

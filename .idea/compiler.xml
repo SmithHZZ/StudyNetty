@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="01-hello-world" />
         <module name="02-grpc" />
+        <module name="03-thrift" />
       </profile>
     </annotationProcessing>
   </component>
